@@ -19,7 +19,7 @@ void main()
 	cout << "Index = " << foundIndex << endl;
 	a.Sort();
 	a.Output();
-	a.Reverse();
+	a.Reverse(); 
 	a.Output();
 	a.ReSize(10);
 	a.Input();
