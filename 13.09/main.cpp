@@ -25,5 +25,5 @@ void main()
 	a.Input();
 	a.Output();
 
-	system("pause");
+	system("pause"); 
 }
